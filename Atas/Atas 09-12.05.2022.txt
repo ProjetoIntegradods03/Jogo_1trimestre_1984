@@ -1,0 +1,4 @@
+Data: 12/05/2022
+
+Terminamos o teaser do jogo, so faltando juntar as fases e a abertura junto, estamos com um leve progresso no codigo,
+iremos focas no codigo agora enquanto dividimos para também terminarmos a documentação 10 paginas.
